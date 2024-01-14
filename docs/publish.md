@@ -2826,7 +2826,7 @@ On ntfy.sh, this feature is only supported to [ntfy Pro](https://ntfy.sh/app) pl
   <figcaption>Phone number verification in the <a href="https://ntfy.sh/account">web app</a></figcaption>
 </figure>
 
-As of today, the text-to-speed voice used will only support English. If there is demand for other languages, we'll
+As of today, the text-to-speech voice used will only support English. If there is demand for other languages, we'll
 be happy to add support for that. Please [open an issue on GitHub](https://github.com/binwiederhier/ntfy/issues).
 
 !!! info
